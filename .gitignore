@@ -6,3 +6,4 @@
 *.ORIG
 *.orig
 
+.ipynb_checkpoints/
